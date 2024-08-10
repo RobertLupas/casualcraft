@@ -5,7 +5,10 @@
   <br />
   <br />
   <p align="center">
-    Leading, lightweight, and unbiased performance modpack with no QoL features
+    Crafted with playing on servers and SMPs in mind, the best modpack for casual and frequent players, with QOL improvements and additions.
+    <br />
+    <h4>🏗️WORK IN PROGRESS!🏗️</h4>
+    <h4>(Based on Adrenaline)</h4>
     <br />
     <a href="https://github.com/intergrav/Adrenaline/wiki">Explore the wiki</a>
     ·
@@ -56,7 +59,7 @@ Android devices that use OpenGL translation layers (such as GL4ES, ANGLE, etc) a
 
 If you are running into problems, you should make sure that your graphics drivers are up-to-date. I also recommend taking a look at [this page](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) on the Sodium wiki.
 
-*The majority of this was taken from Sodium's hardware compatibility section. I'll update this accordingly if anything is changed.*
+_The majority of this was taken from Sodium's hardware compatibility section. I'll update this accordingly if anything is changed._
 
 # 🐛 How to Report Issues
 
@@ -72,4 +75,4 @@ Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25%
 
 [![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/444cf491-d49c-4b9a-8b2d-250593122b7e.webp)](https://www.bisecthosting.com/devin)
 
-*Adrenaline's description is heavily inspired by [Sodium](https://modrinth.com/mod/sodium)'s description and also includes some information from them. Description last updated: March 25, 2024*
+_Adrenaline's description is heavily inspired by [Sodium](https://modrinth.com/mod/sodium)'s description and also includes some information from them. Description last updated: March 25, 2024_
