@@ -1,0 +1,13 @@
+name = "RemoveWelcomeScreen[FABRIC]"
+filename = "RemoveWelcomeScreen-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9amIVqdU/versions/G3Y7ecBv/RemoveWelcomeScreen-1.0.0.jar"
+hash-format = "sha1"
+hash = "171aa88485c87f1e74b6ffca60222580dda729df"
+
+[update]
+[update.modrinth]
+mod-id = "9amIVqdU"
+version = "G3Y7ecBv"

@@ -1,0 +1,13 @@
+name = "Music Delay Reducer"
+filename = "music_delay_reducer-fabric-1.0.6+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CTJn5mVm/versions/tqRe8TCc/music_delay_reducer-fabric-1.0.6%2B1.21.jar"
+hash-format = "sha1"
+hash = "9a791afb5b5eafc8d1839720d11b153994bae91e"
+
+[update]
+[update.modrinth]
+mod-id = "CTJn5mVm"
+version = "tqRe8TCc"

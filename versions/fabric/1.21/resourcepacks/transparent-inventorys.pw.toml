@@ -1,0 +1,13 @@
+name = "Transparent Inventorys (GUI & HUD)"
+filename = "§8Transparent-Inventorys [1.21].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/n4unEhNq/versions/vxazIBZv/%C2%A78Transparent-Inventorys%20%5B1.21%5D.zip"
+hash-format = "sha1"
+hash = "9e2de101830e2d0c8b6dd9814c19b9ad21ba28c7"
+
+[update]
+[update.modrinth]
+mod-id = "n4unEhNq"
+version = "vxazIBZv"
